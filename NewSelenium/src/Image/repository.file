@@ -1,6 +1,0 @@
-FireFoxDriver=D:\\driver\\ChromeDriver\\chromedriver.exe
-url=https://opensource-demo.orangehrmlive.com/
-username=username
-password=password
-loginButton=//button[@type='submit']
-user=//p[@class='oxd-userdropdown-name']
